@@ -1,3 +1,0 @@
-/home/jiajunli/.working-directory/httpserver/build/debug/CMakeFiles/httpserver.dir
-/home/jiajunli/.working-directory/httpserver/build/debug/CMakeFiles/edit_cache.dir
-/home/jiajunli/.working-directory/httpserver/build/debug/CMakeFiles/rebuild_cache.dir
