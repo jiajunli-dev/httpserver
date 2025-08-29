@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/httpserver.dir/src/main.cpp.o CMakeFiles/httpserver.dir/src/utils.cpp.o CMakeFiles/httpserver.dir/src/path.cpp.o -o httpserver 
