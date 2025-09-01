@@ -1,6 +1,5 @@
 #include <cstring>
-#include <vector>
-#include <sstream>
+#include <string>
 
 std::string makeResponse(const char *body)
 {
